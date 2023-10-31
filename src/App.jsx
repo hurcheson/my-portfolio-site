@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Hurcheson Ofori",
-  title: "Data Analyst",
+  title: "Data Analyst & Machine Learning Enthusiast",
   email: "hurchesonofori@gmail.com",
   gitHub: "hurcheson",
   instagram: "",
